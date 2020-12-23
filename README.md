@@ -1,1 +1,1 @@
-# pytorch_practice
+# Neural Networks with PyTorch
